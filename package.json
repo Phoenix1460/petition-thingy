@@ -1,0 +1,12 @@
+{
+  "name": "petition-thingy",
+  "version": "1.0.0",
+  "description": "Shared petition with a small backend that stores signatures in a JSON file.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
